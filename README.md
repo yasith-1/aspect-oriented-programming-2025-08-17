@@ -36,6 +36,8 @@ pom.xml
 
 ## 🚀 Features
 
+### Diagram : https://drive.google.com/file/d/15R_zmFlmkvZG_qYWAInWLOaTWgeym9o5/view?usp=sharing
+
 ### Aspect-Oriented Programming (AOP)
 - **Custom Annotation**: `@LogExecutionTime` for method execution time logging
 - **Aspect Class**: `LoggingAspectResolver` to handle cross-cutting concerns
